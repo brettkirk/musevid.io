@@ -32,17 +32,17 @@ It can be difficult to discover new music and you may be missing out on songs yo
 This app makes it fun and easy to find and share new music videos with friends or discover new music videos from people around the world.
 
 ## How to Get Started ##
-To get started:
-!["](images/readme/bullet.png) Make an account with us.
-!["](images/readme/bullet.png) Find a stream.
-!["](images/readme/bullet.png) Enjoy!
+To get started:  
+!["](images/readme/bullet.png) Make an account with us.  
+!["](images/readme/bullet.png) Find a stream.  
+!["](images/readme/bullet.png) Enjoy!  
 ### OR ###
-!["](images/readme/bullet.png) Find a video.
-!["](images/readme/bullet.png) Press "start stream".
+!["](images/readme/bullet.png) Find a video.  
+!["](images/readme/bullet.png) Press "start stream".  
 !["](images/readme/bullet.png) Invite some friends to join you or make it public!
 
 ## Testimonials ##
-!["](images/readme/quoteSmall.png) This will revolutionize the way you discover and share music videos.
+!["](images/readme/quoteSmall.png) This will revolutionize the way you discover and share music videos.  
 !["](images/readme/quoteSmall.png) This app has helped me find so many great music videos! 
 
 ## Closing and Call to Action ##
