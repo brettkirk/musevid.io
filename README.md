@@ -25,6 +25,3 @@ To get started:
 ## Testimonials ##
 !["](images/readme/quoteSmall.png) This will revolutionize the way you discover and share music videos.  
 !["](images/readme/quoteSmall.png) This app has helped me find so many great music videos! 
-
-## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
