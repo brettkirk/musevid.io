@@ -32,7 +32,7 @@ Once the project moves into development, the press release can be used as a touc
   > This app makes it fun and easy to find and share new music videos with friends or discover new music videos from people around the world.
 
 ## Quote from You ##
-!["](images/readme/quote.png)TEST
+!["](images/readme/quote_24.png)TEST
   > A quote from a spokesperson in your company.
 
 ## How to Get Started ##
