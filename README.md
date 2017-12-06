@@ -1,4 +1,4 @@
-[musevid.io](images/logo-long.png)
+![musevid.io](images/logo-long.png)
 
 ## Social music video streaming ##
 Share and discover new music videos with your friends in real time via music video stations hosted by people like you!
