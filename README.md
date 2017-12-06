@@ -20,25 +20,30 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Social music video streaming ##
-  > Share and discover new music videos with your friends in real time via music video stations hosted by people like you!
+Share and discover new music videos with your friends in real time via music video stations hosted by people like you!
 
 ## Summary ##
-  > This app aims to make it easy to share music videos with friends in real time regardless of distance. This is achieved by integrating YouTube's vast database of music videos with a real time messaging app. As a result you can chat with your friends, and watch along with them in real time. Some fun benefits to using this are: you can essentially create your own (classic) MTV style radio station for people to listen to, you can talk about a song with people as it's happening, or you can have people help you discover new music.
+This app aims to make it easy to share music videos with friends in real time regardless of distance. This is achieved by integrating YouTube's vast database of music videos with a real time messaging app. As a result you can chat with your friends, and watch along with them in real time. Some fun benefits to using this are: you can essentially create your own (classic) MTV style radio station for people to listen to, you can talk about a song with people as it's happening, or you can have people help you discover new music.
 
 ## Problem ##
-  > It can be difficult to discover new music and you may be missing out on songs you would never think to listen to.
+It can be difficult to discover new music and you may be missing out on songs you would never think to listen to.
 
 ## Solution ##
-  > This app makes it fun and easy to find and share new music videos with friends or discover new music videos from people around the world.
-
-## Quote from You ##
-!["](images/readme/quoteSmall.png) This will revolutionize the way you discover and share music videos.
+This app makes it fun and easy to find and share new music videos with friends or discover new music videos from people around the world.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+To get started:
+!["](images/readme/bullet.png) Make an account with us.
+!["](images/readme/bullet.png) Find a stream.
+!["](images/readme/bullet.png) Enjoy!
+### OR ###
+!["](images/readme/bullet.png) Find a video.
+!["](images/readme/bullet.png) Press "start stream".
+!["](images/readme/bullet.png) Invite some friends to join you or make it public!
 
-## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+## Testimonials ##
+!["](images/readme/quoteSmall.png) This will revolutionize the way you discover and share music videos.
+!["](images/readme/quoteSmall.png) This app has helped me find so many great music videos! 
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
