@@ -32,8 +32,7 @@ Once the project moves into development, the press release can be used as a touc
   > This app makes it fun and easy to find and share new music videos with friends or discover new music videos from people around the world.
 
 ## Quote from You ##
-!["](images/readme/quote_24.png)TEST
-  > A quote from a spokesperson in your company.
+!["](images/readme/quote.png) This will revolutionize the way you discover and share music videos.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
