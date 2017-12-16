@@ -13,7 +13,6 @@ It can be difficult to discover new music and you may be missing out on songs yo
 This app makes it fun and easy to find and share new music videos with friends or discover new music videos from people around the world.
 
 ## How to Get Started ##
-To get started:  
 ![*](images/readme/bullet.png) Make an account with us.  
 ![*](images/readme/bullet.png) Find a stream.  
 ![*](images/readme/bullet.png) Enjoy!  
